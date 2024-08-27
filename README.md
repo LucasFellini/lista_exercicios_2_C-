@@ -1,2 +1,2 @@
 # lista_exercicios_2_C-
-Lista de exercícios linguagem C
+# Lista 2 de exercícios linguagem C
